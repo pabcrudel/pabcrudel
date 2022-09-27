@@ -1,6 +1,6 @@
-### Hi! My name is Pablo
-## I'm a Marketing Developer
-Currently I'm studing Web Applications Development.
+## Hi! My name is Pablo
+# I'm a Marketing Developer
+I'm currently studying Web Applications Development.
 However, I graduated from Malaga University with a degree in Marketing & Market Research.
 
 <!--
