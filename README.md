@@ -3,7 +3,7 @@
 I'm currently studying Web Applications Development.
 However, I graduated from Malaga University with a degree in Marketing & Market Research.
 
-[Java projects](../../java)
+[Java projects](../../../java)
 
 <!--
 **PabloCru/PabloCru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
