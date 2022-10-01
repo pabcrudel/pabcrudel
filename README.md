@@ -62,7 +62,7 @@ However, I graduated from Malaga University with a degree in Marketing & Market 
   </a>
 </p>
 
-<h3>Programming Tools</h4>
+- <h3>Programming Tools</h4>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
