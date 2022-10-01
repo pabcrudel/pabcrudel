@@ -1,12 +1,4 @@
-<!--## Hi! My name is Pablo
-# I'm a Marketing Developer
-I'm currently studying Web Applications Development.
-However, I graduated from Malaga University with a degree in Marketing & Market Research.
-
-[Java projects](../../../java)
-
-
-**PabloCru/PabloCru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**PabloCru/PabloCru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,8 +22,8 @@ However, I graduated from Malaga University with a degree in Marketing & Market 
 <!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pablocru.com/)-->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablocrudelhom/)
 
-<h3 align="left">🛠 Skills</h3>
-<h4>Web Design</h4>
+<h2 align="left">🛠 Skills</h3>
+<h3>Web Design</h4>
 <p align="left"> 
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
@@ -47,7 +39,7 @@ However, I graduated from Malaga University with a degree in Marketing & Market 
   </a> 
 </p>
 
-<h4>Programming Languages</h4>
+<h3>Programming Languages</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -63,14 +55,14 @@ However, I graduated from Malaga University with a degree in Marketing & Market 
   </a> 
 </p>
 
-<h4>JavaScript Frameworks</h4>
+<h3>JavaScript Frameworks</h4>
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
 </p>
 
-<h4>Programming Tools</h4>
+<h3>Programming Tools</h4>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -79,3 +71,6 @@ However, I graduated from Malaga University with a degree in Marketing & Market 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 </p>
+
+## Proyects
+- [Java projects](../../../java)
