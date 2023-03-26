@@ -1,76 +1,24 @@
-<!--**PabloCru/PabloCru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido a mi perfil de GitHub de pruebas
 
-Here are some ideas to get you started:
+¡Hola! Soy Pablo Cru y he creado esta cuenta de GitHub para realizar pruebas y experimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿Por qué he creado esta cuenta?
 
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A Marketing Developer</h3>
+Para poder experimentar y probar nuevas características de GitHub sin afectar a mi cuenta principal. A medida que aprendo y descubro nuevas herramientas y funcionalidades, espero poder aplicarlas a mi cuenta principal y compartir lo que he aprendido con otros.
 
-<p align="left">I'm currently studying Web Applications Development.
-However, I graduated from Malaga University with a degree in Marketing & Market Research.</p>
+## Mi cuenta profesional
 
-## 🔗 Links
-<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pablocru.com/)-->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablocrudelhom/)
+Si estás interesado en conocer mi cuenta profesional, por favor visita mi perfil en [@pabcrudel](https://github.com/pabcrudel). Allí encontrarás información sobre mis proyectos, habilidades y experiencia en desarrollo de software.
 
-<h2 align="left">🛠 Skills</h3>
-<h3>Web Design</h4>
-<p align="left"> 
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-</p>
+## Mis repositorios destacados
 
-<h3>Programming Languages</h4>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-</p>
+Aquí hay algunos de mis repositorios destacados:
 
-<h3>JavaScript Frameworks</h4>
-<p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-</p>
+- [spa-project-deployment-script](https://github.com/pabcrudel/spa-project-deployment-script): Automatizar el despliegue de SPAs en GitHub Pages.
+- [minify-script](https://github.com/pabcrudel/minify-script): Herramienta útil para minimizar y comprimir archivos HTML, CSS y JS en un proyecto web.
 
-<h3>Programming Tools</h4>
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-</p>
+## ¿Te gustaría trabajar conmigo?
 
-## Proyects
-- [Java projects](../../../java)
+Si te interesa trabajar conmigo en algún proyecto, no dudes en contactarme a través de mi cuenta profesional en [@pabcrudel](https://github.com/pabcrudel). Estaré encantado de escuchar tus ideas y colaborar contigo.
+
+¡Gracias por visitar mi perfil de GitHub de pruebas!
