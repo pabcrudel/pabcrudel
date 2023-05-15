@@ -19,6 +19,6 @@ Aquí hay algunos de mis repositorios destacados:
 
 ## ¿Te gustaría trabajar conmigo?
 
-Si te interesa trabajar conmigo en algún proyecto, no dudes en contactarme a través de mi cuenta profesional en [@pabcrudel](https://github.com/pabcrudel). Estaré encantado de escuchar tus ideas y colaborar contigo.
+Si te interesa trabajar conmigo en algún proyecto, no dudes en contactarme a través de mi cuenta profesional en [@pabcrudel](https://github.com/pabcrudel) o visita mi perfil de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/). Estaré encantado de escuchar tus ideas y colaborar contigo.
 
 ¡Gracias por visitar mi perfil de GitHub de pruebas!
