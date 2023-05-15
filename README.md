@@ -12,10 +12,14 @@ Si estás interesado en conocer mi cuenta profesional, por favor visita mi perfi
 
 ## Mis repositorios destacados
 
-Aquí hay algunos de mis repositorios destacados:
+### Aquí hay algunos de mis repositorios destacados:
 
 - [spa-project-deployment-script](https://github.com/pabcrudel/spa-project-deployment-script): Automatizar el despliegue de SPAs en GitHub Pages.
 - [minify-script](https://github.com/pabcrudel/minify-script): Herramienta útil para minimizar y comprimir archivos HTML, CSS y JS en un proyecto web.
+
+### Estos son mis lenguajes favoritos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabcrudel&layout=compact&langs_count=10&hide_title=true)](https://github.com/pabcrudel?tab=repositories)
 
 ## ¿Te gustaría trabajar conmigo?
 
