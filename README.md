@@ -12,7 +12,7 @@ Si estás interesado en conocer mi cuenta profesional, por favor visita mi perfi
 
 ## Mis repositorios destacados
 
-### Aquí hay algunos de mis repositorios destacados:
+### Proyectos que más he disfrutado:
 
 - [spa-project-deployment-script](https://github.com/pabcrudel/spa-project-deployment-script): Automatizar el despliegue de SPAs en GitHub Pages.
 - [minify-script](https://github.com/pabcrudel/minify-script): Herramienta útil para minimizar y comprimir archivos HTML, CSS y JS en un proyecto web.
